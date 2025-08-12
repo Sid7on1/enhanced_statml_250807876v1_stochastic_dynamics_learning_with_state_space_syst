@@ -1,0 +1,16 @@
+{
+  "project_name": "enhanced_stat.ML_2508.07876v1_Stochastic_dynamics_learning_with_state_space_syst",
+  "project_type": "computer_vision",
+  "completion_time": "2025-08-12T19:30:12.802083",
+  "total_tasks": 7,
+  "completed_tasks": 7,
+  "failed_tasks": 0,
+  "critical_errors": 0,
+  "agents_used": [
+    "coder1",
+    "coder2",
+    "coder3",
+    "coder4"
+  ],
+  "project_directory": "artifacts/projects/enhanced_stat.ML_2508.07876v1_Stochastic_dynamics_learning_with_state_space_syst"
+}
